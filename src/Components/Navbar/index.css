@@ -1,0 +1,21 @@
+.h1{
+    color:aqua;
+    font-size: small;
+    padding-top: 3rem;
+    align-items: auto;
+}
+
+.h2{
+    align-items: row;
+}
+
+.navbar{
+    align-items: auto;
+    margin-left: 20px;
+    margin-right: 20px;
+    border-color: green;
+    border-width: 3px;
+    padding-top: 5px;
+    
+
+}
